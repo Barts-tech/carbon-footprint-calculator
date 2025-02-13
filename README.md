@@ -33,7 +33,7 @@ The program outputs the calculated CO₂ emissions in kg, providing insight into
 
 Requirements
  * Python 3.x
- How to Use
+ * How to Use
  * Clone or download the repository.
  * Run the Python script carbon_footprint_calculator.py.
  * Follow the prompts to input the transport type, distance, and load weight.
