@@ -35,6 +35,6 @@ Requirements
  * Python 3.x
  How to Use
  * Clone or download the repository.
-*Run the Python script carbon_footprint_calculator.py.
-*Follow the prompts to input the transport type, distance, and load weight.
-*View the calculated CO₂ emissions.
+ *Run the Python script carbon_footprint_calculator.py.
+ *Follow the prompts to input the transport type, distance, and load weight.
+ *View the calculated CO₂ emissions.
