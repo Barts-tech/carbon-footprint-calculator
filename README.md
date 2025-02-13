@@ -31,7 +31,7 @@ The program outputs the calculated CO₂ emissions in kg, providing insight into
 
 
 
-Requirements
+Requirements :
  * Python 3.x
  * How to Use
  * Clone or download the repository.
